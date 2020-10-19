@@ -1,0 +1,14 @@
+val name = arrayOf<String>(
+        "Pasta",
+        "French Fries",
+        "Ice Cream",
+        "Bread",
+        "Fried Rice",
+        "Pancakes",
+        "Burger",
+        "Pizza",
+        "Pumpkin Pie",
+        "Chicken Pot Pie",
+
+
+        )
